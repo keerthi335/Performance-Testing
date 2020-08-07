@@ -1,0 +1,9 @@
+# JMeter generated Header file
+Authorization	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1ZTk3ZjViMTQ0MzIzYzAwMDZjZjU2NTAiLCJpc3MiOiJtYXJzLnNlcnZpY2UuaWRlbnRpdHkiLCJpYXQiOjE1OTY0MzA4NTYsImV4cCI6MTU5NjQzNDQ1NiwidW5pcXVlX25hbWUiOiI1ZTk3ZjViMTQ0MzIzYzAwMDZjZjU2NTAifQ.DCVGC5fwfLzb2UPbuQYCp1Uil2usfurj0I6dY0WQy5Q
+Referer	http://192.168.99.100:5000/Account/Profile
+Accept-Language	en-US,en;q=0.9
+Origin	http://192.168.99.100:5000
+Content-Type	application/json; charset=utf-8
+Accept-Encoding	gzip, deflate
+Accept	*/*
+User-Agent	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
